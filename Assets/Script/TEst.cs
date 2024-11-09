@@ -4,9 +4,7 @@ using UnityEngine;
 
 public class TEst : MonoBehaviour
 {
-    public bool isError = true;
-
-    public string name = "Leelien";
+    public string name = "Dany";
     // Start is called before the first frame update
     void Start()
     {
